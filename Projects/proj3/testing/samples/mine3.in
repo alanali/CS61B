@@ -1,0 +1,26 @@
+# Basic initialization
+> init
+<<<
+E .gitlet
+> commit "I want to sleep."
+No changes added to the commit.
+<<<
+> commit "I want to sleep."
+No changes added to the commit.
+<<<
+> commit "I want to sleep."
+No changes added to the commit.
+<<<
+> commit "I want to sleep."
+No changes added to the commit.
+<<<
+> commit "I want to sleep."
+No changes added to the commit.
+<<<
+> commit "I want to sleep."
+No changes added to the commit.
+<<<
+> commit "Goodbye."
+No changes added to the commit.
+<<<
+

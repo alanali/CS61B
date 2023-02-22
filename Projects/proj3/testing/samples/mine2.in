@@ -1,0 +1,26 @@
+# Basic initialization
+> init
+<<<
+E .gitlet
+> commit "I am hungry"
+No changes added to the commit.
+<<<
+> commit "I am hungry"
+No changes added to the commit.
+<<<
+> commit "I am hungry"
+No changes added to the commit.
+<<<
+> commit "I am hungry"
+No changes added to the commit.
+<<<
+> commit "I am hungry"
+No changes added to the commit.
+<<<
+> commit "I am hungry"
+No changes added to the commit.
+<<<
+> commit "Goodbye."
+No changes added to the commit.
+<<<
+

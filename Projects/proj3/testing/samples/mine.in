@@ -1,0 +1,26 @@
+# Basic initialization
+> init
+<<<
+E .gitlet
+> commit "Hello I am suffering"
+No changes added to the commit.
+<<<
+> commit "Hello I am suffering"
+No changes added to the commit.
+<<<
+> commit "Hello I am suffering"
+No changes added to the commit.
+<<<
+> commit "Hello I am suffering"
+No changes added to the commit.
+<<<
+> commit "Hello I am suffering"
+No changes added to the commit.
+<<<
+> commit "Hello I am suffering"
+No changes added to the commit.
+<<<
+> commit "Goodbye."
+No changes added to the commit.
+<<<
+
